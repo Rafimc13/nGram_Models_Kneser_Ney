@@ -1,7 +1,0 @@
-jupyter
-pandas
-nltk
-numpy
-scikit-learn
-more_itertools
-pprint
